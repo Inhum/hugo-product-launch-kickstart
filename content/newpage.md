@@ -1,5 +1,4 @@
 +++
-draft = true
 header_brand = "New Page"
 header_tagline_paragraph = ""
 teaser_image = ""
